@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wiki Prompt Generator"
+  short_description: "Generate project-specific LLM Wiki prompts."
+  default_prompt: "使用 $wiki-prompt-generator 根据我的项目描述，生成一份项目专属 LLM Wiki 初始化提示词。"
